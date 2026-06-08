@@ -427,3 +427,41 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Simulation outputs
+*.vcd
+*.wdb
+*.shm
+*.fsdb
+
+# Coverage files
+*.ucdb
+*.db
+
+# Compiled files
+*.o
+*.so
+*.a
+
+# Logs and results
+*.log
+work/
+work_gls/
+results/
+sim_results/rtl/*
+sim_results/gls/*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.tmp
+*.bak
+transcript
