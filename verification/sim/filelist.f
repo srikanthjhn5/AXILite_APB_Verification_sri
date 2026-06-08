@@ -1,0 +1,16 @@
+../interfaces/axi_lite_if.sv
+../interfaces/apb_if.sv
+../env/axi_lite_agent/axi_lite_sequence_item.sv
+../env/axi_lite_agent/axi_lite_driver.sv
+../env/axi_lite_agent/axi_lite_monitor.sv
+../env/axi_lite_agent/axi_lite_agent.sv
+../env/apb_agent/apb_sequence_item.sv
+../env/apb_agent/apb_monitor.sv
+../env/apb_agent/apb_agent.sv
+../env/axi_apb_scoreboard.sv
+../env/axi_apb_env.sv
+../tests/base_test.sv
+../tests/sanity_test.sv
+../tests/functional_test.sv
+../tests/stress_test.sv
+../tb/top_tb.sv
